@@ -9,10 +9,11 @@
 }
 
 .cabecalho{
+  margin: 1rem;
+  padding: 1rem;
   display: flex;
-  justify-content: top;
-  align-items: top;
-  height: 15vh;
+  align-items: center;
+  height: 10vh;
   color: #ffffff;
 }
 .cabecalho__menu{

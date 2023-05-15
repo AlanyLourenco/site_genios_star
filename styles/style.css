@@ -17,6 +17,8 @@
 body{
     /* height: 100vh; */
     box-sizing: border-box;
+    padding: 1.5rem;
+    margin: 1rem;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
@@ -26,7 +28,8 @@ body{
 }
 
 .cabecalho{
-    padding: 2% 0% 0% 15%;
+    padding: 10%;
+    margin: 10%;
 }
 .cabecalho__menu{
     display: flex;
