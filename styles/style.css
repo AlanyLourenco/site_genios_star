@@ -28,8 +28,7 @@ body{
 }
 
 .cabecalho{
-    padding: 10%;
-    margin: 10%;
+    padding: 2% 0% 0% 15%;
 }
 .cabecalho__menu{
     display: flex;
